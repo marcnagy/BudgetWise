@@ -1,0 +1,33 @@
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background: linear-gradient(135deg, #2196f3, #6ec6ff);
+    height: 100vh;
+  }
+  
+  .login-div {
+    padding: 2rem;
+    width: 350px;
+    text-align: center;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    border-radius: 12px;
+    background: white;
+    border-radius: 12px
+  }
+  h1{
+    font-family: var(--roboto-font);
+  }
+  
+  .user-icon {
+    font-size: 3rem;
+    color: #1976d2;
+    margin-bottom: 1rem;
+  }
+  
+  .error-text {
+    color: red;
+    margin-top: 10px;
+  }
+  

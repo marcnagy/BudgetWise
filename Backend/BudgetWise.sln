@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetWise.API", "BudgetWise.API\BudgetWise.API.csproj", "{319CEE24-21E0-4257-9BF0-749BA03751F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetWise.Application", "BudgetWise.Application\BudgetWise.Application.csproj", "{B957EBAE-E8C2-43FF-A461-7C6E53AE7232}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetWise.Domain", "BudgetWise.Domain\BudgetWise.Domain.csproj", "{13C15768-286A-4423-A388-2DC3EE58029E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetWise.Infrastructure", "BudgetWise.Infrastructure\BudgetWise.Infrastructure.csproj", "{EA3DDEB1-8C6F-4B35-B08D-128B13101FCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{319CEE24-21E0-4257-9BF0-749BA03751F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{319CEE24-21E0-4257-9BF0-749BA03751F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{319CEE24-21E0-4257-9BF0-749BA03751F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{319CEE24-21E0-4257-9BF0-749BA03751F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B957EBAE-E8C2-43FF-A461-7C6E53AE7232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B957EBAE-E8C2-43FF-A461-7C6E53AE7232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B957EBAE-E8C2-43FF-A461-7C6E53AE7232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B957EBAE-E8C2-43FF-A461-7C6E53AE7232}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13C15768-286A-4423-A388-2DC3EE58029E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C15768-286A-4423-A388-2DC3EE58029E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C15768-286A-4423-A388-2DC3EE58029E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C15768-286A-4423-A388-2DC3EE58029E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA3DDEB1-8C6F-4B35-B08D-128B13101FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA3DDEB1-8C6F-4B35-B08D-128B13101FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA3DDEB1-8C6F-4B35-B08D-128B13101FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA3DDEB1-8C6F-4B35-B08D-128B13101FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

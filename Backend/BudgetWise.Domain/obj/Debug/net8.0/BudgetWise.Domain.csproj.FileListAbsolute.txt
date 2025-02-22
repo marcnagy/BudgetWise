@@ -1,0 +1,11 @@
+C:\Users\mnagu\Desktop\budgetWise\Backend\BudgetWise.Domain\bin\Debug\net8.0\BudgetWise.Domain.deps.json
+C:\Users\mnagu\Desktop\budgetWise\Backend\BudgetWise.Domain\bin\Debug\net8.0\BudgetWise.Domain.dll
+C:\Users\mnagu\Desktop\budgetWise\Backend\BudgetWise.Domain\bin\Debug\net8.0\BudgetWise.Domain.pdb
+C:\Users\mnagu\Desktop\budgetWise\Backend\BudgetWise.Domain\obj\Debug\net8.0\BudgetWise.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnagu\Desktop\budgetWise\Backend\BudgetWise.Domain\obj\Debug\net8.0\BudgetWise.Domain.AssemblyInfoInputs.cache
+C:\Users\mnagu\Desktop\budgetWise\Backend\BudgetWise.Domain\obj\Debug\net8.0\BudgetWise.Domain.AssemblyInfo.cs
+C:\Users\mnagu\Desktop\budgetWise\Backend\BudgetWise.Domain\obj\Debug\net8.0\BudgetWise.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mnagu\Desktop\budgetWise\Backend\BudgetWise.Domain\obj\Debug\net8.0\BudgetWise.Domain.dll
+C:\Users\mnagu\Desktop\budgetWise\Backend\BudgetWise.Domain\obj\Debug\net8.0\refint\BudgetWise.Domain.dll
+C:\Users\mnagu\Desktop\budgetWise\Backend\BudgetWise.Domain\obj\Debug\net8.0\BudgetWise.Domain.pdb
+C:\Users\mnagu\Desktop\budgetWise\Backend\BudgetWise.Domain\obj\Debug\net8.0\ref\BudgetWise.Domain.dll

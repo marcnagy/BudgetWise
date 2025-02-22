@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BudgetWise.Application/1.0.0": {
+        "dependencies": {
+          "BudgetWise.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BudgetWise.Application.dll": {}
+        }
+      },
+      "BudgetWise.Domain/1.0.0": {
+        "runtime": {
+          "BudgetWise.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BudgetWise.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BudgetWise.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

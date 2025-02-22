@@ -1,0 +1,29 @@
+.dashboardContainer{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    padding-top: 80px;
+}
+.HeadBar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+    position: relative;
+    padding: 10px 20px;
+    
+    .buttonHolder {
+        display: flex;
+        align-items: center;
+        margin-left: auto;
+    }
+
+    h1 {
+        position: absolute; 
+        left: 50%;
+        transform: translateX(-50%);
+        margin: 0;
+    }
+}
